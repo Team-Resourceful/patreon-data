@@ -1,0 +1,16 @@
+{
+    "patreons": [
+        {
+            "uuid": "503450fc-72c2-4e87-8243-94e264977437",
+            "color": -1,
+            "rainbow": false,
+            "texture": "vanilla"
+        },
+        {
+            "uuid": "8b599c41-8076-4dcd-8cd4-47c254864a8a",
+            "color": -1,
+            "rainbow": false,
+            "texture": "oreo"
+        }
+    ]
+}

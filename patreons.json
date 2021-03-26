@@ -23,6 +23,12 @@
             "color": -1,
             "rainbow": false,
             "texture": "oreo"
+        },
+        {
+            "uuid": "04b2d2d6-1ba5-4598-a260-9ff8432677a8",
+            "color": -1,
+            "rainbow": false,
+            "texture": "creeper"
         }
     ]
 }

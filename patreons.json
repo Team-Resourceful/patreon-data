@@ -47,6 +47,12 @@
             "color": 16746479,
             "rainbow": false,
             "texture": "base"
+        },
+        {
+            "uuid": "f3a6b9bf-e475-4644-9018-06508039d180",
+            "color": -1,
+            "rainbow": false,
+            "texture": "pigman"
         }
     ]
 }

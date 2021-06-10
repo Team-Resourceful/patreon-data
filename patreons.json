@@ -65,6 +65,12 @@
             "color": -1,
             "rainbow": false,
             "texture": "kitten"
+        },
+        {
+            "uuid": "d5253a63-db30-47b4-b4e8-fa5fe6b1b59b",
+            "color": 16119285,
+            "rainbow": false,
+            "texture": "base"
         }
     ]
 }

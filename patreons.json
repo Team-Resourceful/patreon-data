@@ -89,6 +89,12 @@
             "color": -1,
             "rainbow": false,
             "texture": "gilded"
+        },
+        {
+            "uuid": "80d3a9f6-5ddd-4022-aca1-4bbcf8729867",
+            "color": -1,
+            "rainbow": false,
+            "texture": "gilded"
         }
     ]
 }

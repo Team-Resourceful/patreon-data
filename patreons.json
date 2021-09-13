@@ -101,6 +101,12 @@
             "color": -1,
             "rainbow": false,
             "texture": "oreo"
+        },
+        {
+            "uuid": "2b27a3a3-e2d6-468a-92e2-70f6f15b6e41",
+            "color": -1,
+            "rainbow": false,
+            "texture": "vanilla"
         }
     ]
 }

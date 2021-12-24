@@ -1,4 +1,9 @@
 {
+    "defaultBee" : {
+        "texture": "yeti",
+        "color": -1,
+        "rainbow": false
+    },
     "patreons": [
         {
             "uuid": "503450fc-72c2-4e87-8243-94e264977437",

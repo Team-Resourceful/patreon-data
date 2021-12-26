@@ -22,7 +22,7 @@
       "layers" : [
         {
           "color": "#FFFFFF",
-          "texture": "resourcefulbees:textures/entity/custom/primary_layer.png
+          "texture": "resourcefulbees:textures/entity/custom/primary_layer.png"
         }
       ]
     },
@@ -33,7 +33,7 @@
       "layers" : [
         {
           "color": "#FF87EF",
-          "texture": "resourcefulbees:textures/entity/custom/primary_layer.png
+          "texture": "resourcefulbees:textures/entity/custom/primary_layer.png"
         }
       ]
     },

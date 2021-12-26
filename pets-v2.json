@@ -2,22 +2,22 @@
   "models": [
     {
       "id": "vanilla",
-      "model": "resourcefulbees:geo/base.geo.json",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "minecraft:textures/entity/bee/bee.png"
     },
     {
       "id": "oreo",
-      "model": "resourcefulbees:geo/base.geo.json",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/oreo/oreo_bee.png"
     },
     {
       "id": "creeper",
-      "model": "resourcefulbees:geo/base.geo.json",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/creeper/creeper_bee.png"
     },
     {
       "id": "white-base",
-      "model": "resourcefulbees:geo/base.geo.json",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/custom/bee.png",
       "layers" : [
         {
@@ -28,7 +28,7 @@
     },
     {
       "id": "pink-base",
-      "model": "resourcefulbees:geo/base.geo.json",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/custom/bee.png",
       "layers" : [
         {
@@ -38,14 +38,25 @@
       ]
     },
     {
+      "id": "rainbow-base",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/custom/bee.png",
+      "layers" : [
+        {
+          "color": "rainbow",
+          "texture": "resourcefulbees:textures/entity/custom/primary_layer.png"
+        }
+      ]
+    },
+    {
       "id": "pigman",
-      "model": "resourcefulbees:geo/base.geo.json",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/pigman/pigman_bee.png"
     },
     {
-      "id": "guilded",
-      "model": "resourcefulbees:geo/base.geo.json",
-      "texture": "resourcefulbees:textures/entity/guilded/guilded_alchemist_bee.png"
+      "id": "gilded",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/gilded/gilded_alchemist_bee.png"
     },
     {
       "id": "kitten",
@@ -54,11 +65,36 @@
     },
     {
       "id": "wither",
-      "model": "resourcefulbees:geo/base.geo.json",
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/wither/wither_bee.png"
+    },
+    {
+      "id": "astronaut",
+      "model": "resourcefulbees:geo/astronaut.geo.json",
+      "texture": "resourcefulbees:textures/entity/astronaut/astronaut_bee.png"
     }
   ],
   "users": {
-    "503450fc-72c2-4e87-8243-94e264977437": "diamond"
+    "503450fc-72c2-4e87-8243-94e264977437": "astronaut",
+    "8b599c41-8076-4dcd-8cd4-47c254864a8a": "oreo",
+    "380df991-f603-344c-a090-369bad2a924a": "vanilla",
+    "50c76e1d-11b4-4148-8878-145cdb72af11": "oreo",
+    "04b2d2d6-1ba5-4598-a260-9ff8432677a8": "creeper",
+    "3c64acfa-4774-46bd-9e7a-17023e500d44": "rainbow-base",
+    "f83bd929-fbf0-4186-becb-658d676fcc42": "white-base",
+    "69901388-6e20-45de-b17e-bdad50fa0b98": "pink-base",
+    "f3a6b9bf-e475-4644-9018-06508039d180": "pigman",
+    "590ae632-e74b-4c1f-a720-a5a5c027b6e1": "gilded",
+    "041b098a-7a94-40a1-b710-55ad893e913d": "kitten",
+    "d5253a63-db30-47b4-b4e8-fa5fe6b1b59b": "white-base",
+    "1201a4f7-6a39-4b38-b9bb-5fc7ac2189bb": "oreo",
+    "5bca4714-d584-455c-af1e-d5fbf7a50760": "gilded",
+    "70349795-7ba9-4926-bfad-18d455e9f04b": "gilded",
+    "80d3a9f6-5ddd-4022-aca1-4bbcf8729867": "gilded",
+    "62136632-77a7-4d57-9796-97e2067f4966": "oreo",
+    "2b27a3a3-e2d6-468a-92e2-70f6f15b6e41": "vanilla",
+    "9ab45628-2793-4962-88bc-554dff2cfab6": "wither",
+    "285fb370-eedc-4094-bbac-e0ae3dcf0927": "oreo",
+    "92b8e404-c89b-4a72-bae3-a7acb3fff21d": "gilded"
   }
 }

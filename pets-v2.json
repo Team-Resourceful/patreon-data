@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "vanilla",
+      "model": "resourcefulbees:geo/base.geo.json",
+      "texture": "minecraft:textures/entity/bee/bee.png"
+    },
+    {
+      "id": "oreo",
+      "model": "resourcefulbees:geo/base.geo.json",
+      "texture": "resourcefulbees:textures/entity/oreo/oreo_bee.png"
+    },
+    {
+      "id": "creeper",
+      "model": "resourcefulbees:geo/base.geo.json",
+      "texture": "resourcefulbees:textures/entity/creeper/creeper_bee.png"
+    },
+    {
+      "id": "white-base",
+      "model": "resourcefulbees:geo/base.geo.json",
+      "texture": "resourcefulbees:textures/entity/custom/bee.png",
+      "layers" : [
+        {
+          "color": "#FFFFFF",
+          "texture": "resourcefulbees:textures/entity/custom/primary_layer.png
+        }
+      ]
+    },
+    {
+      "id": "pink-base",
+      "model": "resourcefulbees:geo/base.geo.json",
+      "texture": "resourcefulbees:textures/entity/custom/bee.png",
+      "layers" : [
+        {
+          "color": "#FF87EF",
+          "texture": "resourcefulbees:textures/entity/custom/primary_layer.png
+        }
+      ]
+    },
+    {
+      "id": "pigman",
+      "model": "resourcefulbees:geo/base.geo.json",
+      "texture": "resourcefulbees:textures/entity/pigman/pigman_bee.png"
+    },
+    {
+      "id": "guilded",
+      "model": "resourcefulbees:geo/base.geo.json",
+      "texture": "resourcefulbees:textures/entity/guilded/guilded_alchemist_bee.png"
+    },
+    {
+      "id": "kitten",
+      "model": "resourcefulbees:geo/kitten.geo.json",
+      "texture": "resourcefulbees:textures/entity/kitten/bee.png"
+    },
+    {
+      "id": "wither",
+      "model": "resourcefulbees:geo/base.geo.json",
+      "texture": "resourcefulbees:textures/entity/wither/wither_bee.png"
+    }
+  ],
+  "users": {
+    "503450fc-72c2-4e87-8243-94e264977437": "diamond"
+  }
+}

@@ -72,8 +72,14 @@
       "id": "astronaut",
       "model": "resourcefulbees:geo/astronaut.geo.json",
       "texture": "resourcefulbees:textures/entity/astronaut/astronaut_bee.png"
+    },
+    {
+      "id": "yeti",
+      "model": "resourcefulbees:geo/yeti.geo.json",
+      "texture": "resourcefulbees:textures/entity/yeti/yeti_bee.png"
     }
   ],
+  "default": "yeti",
   "users": {
     "503450fc-72c2-4e87-8243-94e264977437": "astronaut",
     "8b599c41-8076-4dcd-8cd4-47c254864a8a": "oreo",

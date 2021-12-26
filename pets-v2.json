@@ -2,21 +2,25 @@
   "models": [
     {
       "id": "vanilla",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "minecraft:textures/entity/bee/bee.png"
     },
     {
       "id": "oreo",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/oreo/oreo_bee.png"
     },
     {
       "id": "creeper",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/creeper/creeper_bee.png"
     },
     {
       "id": "white-base",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/custom/bee.png",
       "layers" : [
@@ -28,6 +32,7 @@
     },
     {
       "id": "pink-base",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/custom/bee.png",
       "layers" : [
@@ -39,6 +44,7 @@
     },
     {
       "id": "rainbow-base",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/custom/bee.png",
       "layers" : [
@@ -50,31 +56,37 @@
     },
     {
       "id": "pigman",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/pigman/pigman_bee.png"
     },
     {
       "id": "gilded",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/gilded/gilded_alchemist_bee.png"
     },
     {
       "id": "kitten",
+      "version": 1,
       "model": "resourcefulbees:geo/kitten.geo.json",
       "texture": "resourcefulbees:textures/entity/kitten/bee.png"
     },
     {
       "id": "wither",
+      "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/wither/wither_bee.png"
     },
     {
       "id": "astronaut",
+      "version": 1,
       "model": "resourcefulbees:geo/astronaut.geo.json",
       "texture": "resourcefulbees:textures/entity/astronaut/astronaut_bee.png"
     },
     {
       "id": "yeti",
+      "version": 1,
       "model": "resourcefulbees:geo/yeti.geo.json",
       "texture": "resourcefulbees:textures/entity/yeti/yeti_bee.png"
     }

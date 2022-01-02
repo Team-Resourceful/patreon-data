@@ -89,6 +89,12 @@
       "version": 1,
       "model": "resourcefulbees:geo/yeti.geo.json",
       "texture": "resourcefulbees:textures/entity/yeti/yeti_bee.png"
+    },
+    {
+      "id": "trans",
+      "version": 1,
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/pride/trans_bee.png"
     }
   ],
   "default": "yeti",
@@ -114,6 +120,7 @@
     "9ab45628-2793-4962-88bc-554dff2cfab6": "wither",
     "285fb370-eedc-4094-bbac-e0ae3dcf0927": "oreo",
     "92b8e404-c89b-4a72-bae3-a7acb3fff21d": "gilded",
-    "c5db9751-cfe8-4ee0-800f-29fd1a7c0eab": "oreo"
+    "c5db9751-cfe8-4ee0-800f-29fd1a7c0eab": "oreo",
+    "ab5a4cf9-dc0b-4493-bfe0-cd61cc9bd857": "trans"
   }
 }

@@ -130,6 +130,18 @@
             "color": -1,
             "rainbow": false,
             "texture": "gilded"
+        },
+        {
+            "uuid": "c5db9751-cfe8-4ee0-800f-29fd1a7c0eab",
+            "color": -1,
+            "rainbow": false,
+            "texture": "oreo"
+        },
+        {
+            "uuid": "ab5a4cf9-dc0b-4493-bfe0-cd61cc9bd857",
+            "color": -1,
+            "rainbow": false,
+            "texture": "trans"
         }
     ]
 }

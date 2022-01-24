@@ -137,6 +137,12 @@
             "color": -1,
             "rainbow": false,
             "texture": "trans"
+        } ,
+        {
+            "uuid": "7994c7ba-c54e-46f9-9c21-d0804a25527a",
+            "color": -1,
+            "rainbow": false,
+            "texture": "creeper"
         }
     ]
 }

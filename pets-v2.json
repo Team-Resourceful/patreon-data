@@ -95,6 +95,12 @@
       "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
       "texture": "resourcefulbees:textures/entity/pride/trans_bee.png"
+    },
+    {
+      "id": "pan",
+      "version": 1,
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/pride/pan_bee.png"
     }
   ],
   "users": {
@@ -124,6 +130,7 @@
     "7994c7ba-c54e-46f9-9c21-d0804a25527a": "creeper",
     "115fa5fb-15ec-4efb-824b-8d318437eadd": "kitten",
     "f36607f6-b4cf-4fdb-979c-8a61d52020ac": "yeti",
-    "9605accb-f9fa-4ea3-b985-bf32a840dae9": "kitten"
+    "9605accb-f9fa-4ea3-b985-bf32a840dae9": "kitten",
+    "895fe224-25ee-4d6c-b53f-76093d262f5b": "pan"
   }
 }

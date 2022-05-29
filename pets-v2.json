@@ -103,6 +103,36 @@
       "texture": "resourcefulbees:textures/entity/pride/pan_bee.png"
     },
     {
+      "id": "nonbinary",
+      "version": 1,
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/pride/nb_bee.png"
+    },
+    {
+      "id": "asexual",
+      "version": 1,
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/pride/asexual_bee.png"
+    },
+    {
+      "id": "bisexual",
+      "version": 1,
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/pride/bi_bee.png"
+    },
+    {
+      "id": "lesbian",
+      "version": 1,
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/pride/lesbian_bee.png"
+    },
+    {
+      "id": "pride",
+      "version": 1,
+      "model": "resourcefulbees:geo/base-nocloak.geo.json",
+      "texture": "resourcefulbees:textures/entity/pride/pride_bee.png"
+    },
+    {
       "id": "slime",
       "version": 1,
       "model": "resourcefulbees:geo/gel.geo.json",

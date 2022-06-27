@@ -58,15 +58,11 @@
       "id": "starry",
       "version": 1,
       "model": "resourcefulbees:geo/queen.geo.json",
-      "texture": "resourcefulbees:textures/entity/empty_layer",
+      "texture": "resourcefulbees:textures/entity/starry/starry_bee_primary_layer.png",
       "layers": [
         {
-          "color": "#FFFFFF",
-          "texture": "resourcefulbees:textures/entity/starry/starry_bee_primary_layer"
-        },
-        {
           "color": "FFA500",
-          "texture": "resourcefulbees:textures/entity/starry/starry_bee_emissive",
+          "texture": "resourcefulbees:textures/entity/starry/starry_bee_emissive.png",
           "isGlowing": true,
           "pulseFrequency": 1
         }

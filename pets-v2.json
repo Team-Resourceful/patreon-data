@@ -55,6 +55,20 @@
       ]
     },
     {
+      "id": "starry",
+      "version": 1,
+      "model": "resourcefulbees:geo/queen.geo.json",
+      "texture": "resourcefulbees:textures/entity/starry/starry_bee_primary_layer",
+      "layers": [
+        {
+          "color": "FFA500",
+          "texture": "resourcefulbees:textures/entity/starry/starry_bee_emissive",
+          "isGlowing": true,
+          "pulseFrequency": 1
+        }
+      ]
+    },
+    {
       "id": "pigman",
       "version": 1,
       "model": "resourcefulbees:geo/base-nocloak.geo.json",
@@ -154,7 +168,7 @@
     "d5253a63-db30-47b4-b4e8-fa5fe6b1b59b": "white-base",
     "1201a4f7-6a39-4b38-b9bb-5fc7ac2189bb": "oreo",
     "5bca4714-d584-455c-af1e-d5fbf7a50760": "gilded",
-    "70349795-7ba9-4926-bfad-18d455e9f04b": "gilded",
+    "70349795-7ba9-4926-bfad-18d455e9f04b": "starry",
     "80d3a9f6-5ddd-4022-aca1-4bbcf8729867": "gilded",
     "62136632-77a7-4d57-9796-97e2067f4966": "oreo",
     "2b27a3a3-e2d6-468a-92e2-70f6f15b6e41": "vanilla",
